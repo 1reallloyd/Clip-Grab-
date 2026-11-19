@@ -1,0 +1,8 @@
+{
+  "name": "ClipGrab",
+  "description": "Fast, privacy-first web utility for inspecting and saving permissible video and audio links in MP4 and MP3 formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
